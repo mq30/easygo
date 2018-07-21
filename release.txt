@@ -1,0 +1,5 @@
+v0.1 支持windows初始版本，完成基本的数据收发
+v0.2 支持linux初始版本，完成基本的数据收发
+v0.3 支持freebsd/apple初始版本，完成基本的数据收发
+v0.4 完善windows、linux、freebsd/apple初始版本,新增CNetBuffer,管理网络收发的缓冲
+v0.5 增加定时器,支持UUID
